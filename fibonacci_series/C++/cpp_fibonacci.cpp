@@ -15,7 +15,6 @@ int main()
         t1 = t2;
         t2 = t3;
     }
-    
     cout<<"changes done!";
     return 0;
 }

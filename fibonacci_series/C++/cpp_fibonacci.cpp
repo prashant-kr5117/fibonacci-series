@@ -15,6 +15,6 @@ int main()
         t1 = t2;
         t2 = t3;
     }
-
+    cout<<"Fibonnaci printed";
     return 0;
 }
